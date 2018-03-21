@@ -1,0 +1,13 @@
+/nbproject/
+/.idea/
+/doc/
+/e/
+/e_parked/
+/tmp/
+/vendor/
+.DS_Store
+.htaccess
+config.php
+/images/
+/plugins/
+/fileact/
